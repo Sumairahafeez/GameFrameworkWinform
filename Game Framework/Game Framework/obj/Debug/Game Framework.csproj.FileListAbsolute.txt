@@ -1,0 +1,9 @@
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\obj\Debug\Game Framework.csproj.AssemblyReference.cache
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\obj\Debug\Game Framework.csproj.CoreCompileInputs.cache
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\bin\Debug\Game Framework.dll
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\bin\Debug\Game Framework.pdb
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\obj\Debug\Game Framework.dll
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\obj\Debug\Game Framework.pdb
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\bin\Debug\EZInput.dll
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\bin\Debug\EZInput.xml
+F:\2nd semester\OOP Lab\Game\Framework\Game Framework\Game Framework\obj\Debug\Game Fra.E5F55519.Up2Date
